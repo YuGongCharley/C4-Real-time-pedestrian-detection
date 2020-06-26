@@ -20,4 +20,4 @@ build_script:
 
 test_script:
   - cmd: cd bin
-  - cmd: c4-pedestrian-detector.exe
+  - cmd: TestC4Detector.exe
